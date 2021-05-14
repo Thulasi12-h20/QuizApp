@@ -1,0 +1,88 @@
+[
+  {
+    "1": "What is rune in Dart?",
+    "2": "Does Dart has a syntax for declaring interfaces?",
+    "3": " What is the use of this keyword in Dart?",
+    "4": "What are the types of list in Dirt?",
+    "5": "What is typedef in Dart?",
+    "6": "What is the file extension of Dart?",
+    "7": "What is pub in Dart?",
+    "8": "Which editor is used to enables breakpoint and step by step debugging?",
+    "9": "Is Dirt is case sensitive programming language?",
+    "10": "Use of Dart.?"
+  },
+  {
+    "1": {
+      "a": "rune is an integer representing Unicode code point.",
+      "b": "not interger unicode",
+      "c": "both",
+      "d": "no answer"
+    },
+    "2": {
+      "a": "yes",
+      "b": "No",
+      "c": "both",
+      "d": "no answer"
+    },
+    "3": {
+      "a": "yes",
+      "b": "no",
+      "c": "this keyword refers to the current instance of the class.",
+      "d": "function"
+    },
+    "4": {
+      "a": "Fixed Length List",
+      "b": "Growable List",
+      "c": "both",
+      "d": "No Answer"
+    },
+    "5": {
+      "a": "typedef function_name(parameters)",
+      "b": "typeof_name",
+      "c": "type_(parameters)",
+      "d": "None"
+    },
+    "6": {
+      "a": ".Dart",
+      "b": ".json",
+      "c": ".txt",
+      "d": ".java"
+    },
+    "7": {
+      "a": " pub is a tool for manage Dart project",
+      "b": " pub is a tool for manage Dart packages.",
+      "c": "a only",
+      "d": "both"
+    },
+    "8": {
+      "a": "StepUp",
+      "b": "WebStorm",
+      "c": "StepIn",
+      "d": "None"
+    },
+    "9": {
+      "a": "yes",
+      "b": "No",
+      "c": "None",
+      "d": "Both"
+    },
+    "10": {
+      "a": "b only",
+      "b": "Dart is mainly used to build structured modern web programes.",
+      "c": "Dart is mainly used to build structured modern web apps.",
+      "d": "None"
+    }
+  },
+  {
+    "1": "rune is an integer representing Unicode code point.",
+    "2": "No",
+    "3": "this keyword refers to the current instance of the class.",
+    "4": "both",
+    "5": "typedef function_name(parameters)",
+    "6": ".Dart",
+    "7": " pub is a tool for manage Dart packages.",
+    "8": "WebStorm",
+    "9": "Yes",
+    "10": "Dart is mainly used to build structured modern web apps."
+  }
+]

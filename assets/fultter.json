@@ -1,0 +1,88 @@
+[
+  {
+    "1": "What is rune in Dart?",
+    "2": "Does Dart has a syntax for declaring interfaces?",
+    "3": " What is the use of this keyword in Dart?",
+    "4": "What are the types of list in Dirt?",
+    "5": "What is typedef in Dart?",
+    "6": "Which of the following keyword is used to define a function in Python ?",
+    "7": "Which function finds out the Variable type in Python ?",
+    "8": "Which of the following keyword is used to define a function in Python ?",
+    "9": "Which function finds out the Variable type in Python ?",
+    "10": "Which of the following keyword is used to define a function in Python ?"
+  },
+  {
+    "1": {
+      "a": "rune is an integer representing Unicode code point.",
+      "b": "not interger unicode",
+      "c": "both",
+      "d": "no answer"
+    },
+    "2": {
+      "a": "yes",
+      "b": "No",
+      "c": "both",
+      "d": "no answer"
+    },
+    "3": {
+      "a": "yes",
+      "b": "no",
+      "c": "this keyword refers to the current instance of the class.",
+      "d": "function"
+    },
+    "4": {
+      "a": "Fixed Length List",
+      "b": "Growable List",
+      "c": "both",
+      "d": "No Answer"
+    },
+    "5": {
+      "a": "typedef function_name(parameters)",
+      "b": "typeof_name",
+      "c": "type_(parameters)",
+      "d": "None"
+    },
+    "6": {
+      "a": "func",
+      "b": "def",
+      "c": "void",
+      "d": "function"
+    },
+    "7": {
+      "a": "typedef",
+      "b": "typeof",
+      "c": "type",
+      "d": "find"
+    },
+    "8": {
+      "a": "func",
+      "b": "def",
+      "c": "void",
+      "d": "function"
+    },
+    "9": {
+      "a": "typedef",
+      "b": "typeof",
+      "c": "type",
+      "d": "find"
+    },
+    "10": {
+      "a": "func",
+      "b": "def",
+      "c": "void",
+      "d": "function"
+    }
+  },
+  {
+    "1": "rune is an integer representing Unicode code point.",
+    "2": "No",
+    "3": "this keyword refers to the current instance of the class.",
+    "4": "both",
+    "5": "typedef function_name(parameters)",
+    "6": "def",
+    "7": "type",
+    "8": "def",
+    "9": "type",
+    "10": "def"
+  }
+]
